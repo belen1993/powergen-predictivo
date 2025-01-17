@@ -1,0 +1,21 @@
+ID_Equipo,Tipo_Equipo,Fabricante,Fecha_Instalacion,Vida_Util_Anios,Potencia_kW
+E001,Turbina,Fabricante B,2015-01-01,25,3603
+E002,Bomba,Fabricante C,2015-01-02,29,4696
+E003,Bomba,Fabricante C,2015-01-03,19,3880
+E004,Bomba,Fabricante C,2015-01-04,26,3312
+E005,Transformador,Fabricante A,2015-01-05,20,2735
+E006,Transformador,Fabricante C,2015-01-06,13,1251
+E007,Turbina,Fabricante B,2015-01-07,18,2500
+E008,Turbina,Fabricante B,2015-01-08,12,3560
+E009,Bomba,Fabricante C,2015-01-09,26,1714
+E010,Generador,Fabricante B,2015-01-10,15,2727
+E011,Bomba,Fabricante C,2015-01-11,14,1569
+E012,Turbina,Fabricante B,2015-01-12,20,728
+E013,Generador,Fabricante C,2015-01-13,16,757
+E014,Transformador,Fabricante C,2015-01-14,13,2663
+E015,Turbina,Fabricante B,2015-01-15,10,2183
+E016,Generador,Fabricante A,2015-01-16,19,4392
+E017,Generador,Fabricante A,2015-01-17,23,2319
+E018,Bomba,Fabricante B,2015-01-18,21,1259
+E019,Bomba,Fabricante C,2015-01-19,12,4068
+E020,Transformador,Fabricante C,2015-01-20,29,3381
